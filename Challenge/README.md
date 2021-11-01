@@ -16,12 +16,12 @@ Suburban    30.97
 Urban       24.53
 
 
-![NaN Replacement](path/to/image_name.png)
+![NaN Replacement](https://github.com/Kenovy/PyBer_Analysis/blob/main/Challenge/Images/1.png)
 
 Finally, we can see the total fare by city in the image below for an overall reference. 
 
 
-![NaN Replacement](path/to/image_name.png)
+![NaN Replacement](https://github.com/Kenovy/PyBer_Analysis/blob/main/Challenge/Images/PyBer_fare_summary.png)
 
 
 ### Summary
